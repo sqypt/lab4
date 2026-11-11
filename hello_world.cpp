@@ -9,5 +9,5 @@ int main() {
     // Выводим приветствие
     std::cout << "Hello world from @" << name << std::endl;
     return 0;
-    // Изменение в ветке main
+    // Это изменение из главной ветки main
 }
